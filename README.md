@@ -9,7 +9,7 @@
 ## Usage
 
 ```
-csc ImageSteganographyHost.exe
+csc ImageSteganographyRestService.exe
 ```
 
 Then, start the Client:
