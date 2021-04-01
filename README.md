@@ -4,7 +4,7 @@
 ## Pre-requisites
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * ASP.net
-* [WCF](https://docs.microsoft.com/en-us/dotnet/framework/wcf/)
+* [Web API](https://dotnet.microsoft.com/apps/aspnet/apis)
   
 ## Usage
 
