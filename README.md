@@ -1,4 +1,3 @@
-
 # Image Steganography: Hiding data inside image
 
 ### Video Links : 
