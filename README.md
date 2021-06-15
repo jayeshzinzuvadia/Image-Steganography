@@ -1,13 +1,24 @@
 
-# Image Steganography: Hiding an Data inside Image
+# Image Steganography: Hiding data inside image
+
+### Video Links : 
+1) [Image Steganography WCF](https://drive.google.com/file/d/1Gjje3s0wfGalk0vcuvAZ1E4z6c8X8nEg/view?usp=sharing)
+2) [Image Steganography WEB API](https://drive.google.com/file/d/1osJP77SuY2TFB1L3oLMR4vmm7WzE_p2H/view?usp=sharing)
 
 ## Pre-requisites
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-* ASP.net
+* [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
+* [WCF](https://docs.microsoft.com/en-us/dotnet/framework/wcf/)
 * [Web API](https://dotnet.microsoft.com/apps/aspnet/apis)
   
 ## Usage
 
+For WCF:-
+```
+csc ImageSteganographyHost.exe
+```
+
+For WEB API:-
 ```
 csc ImageSteganographyRestService.exe
 ```
@@ -56,5 +67,3 @@ So in total the bits that can be stored in image is limited to (Image_Height * I
 
 ### So where this system practically used ?
 >The major use of this system is in the digital watermarking of images to stop getting pirated. Other usage are for secure communication over certain public channels.
-
-### Video Link : [Image Steganography](https://drive.google.com/file/d/1osJP77SuY2TFB1L3oLMR4vmm7WzE_p2H/view?usp=sharing)
